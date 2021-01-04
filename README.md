@@ -46,7 +46,7 @@
 
 ---
 
-![Liondy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liondy&layout=compact)
+![Liondy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liondy&layout=compact&theme=radical)
 
 [website]: https://liondy.com
 [facebook]: https://www.facebook.com/michaelliondy/

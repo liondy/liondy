@@ -25,6 +25,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/44316758/103539998-98928980-4ecb-11eb-841f-649273731de0.png" /> 
 <img align="left" alt="Gitlab" width="26px" src="https://user-images.githubusercontent.com/44316758/103540006-9b8d7a00-4ecb-11eb-8a00-aded30331f14.png" /> 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br/><br/>
 
 ### Latest Youtube videos
 

@@ -9,6 +9,12 @@
 
 ### Connect with me
 
-[![web](https://user-images.githubusercontent.com/44316758/103536942-f91ec800-4ec5-11eb-9c83-f07595acb3f7.png)](website) [![facebook](https://user-images.githubusercontent.com/44316758/103536676-8a416f00-4ec5-11eb-89fa-67165160cc93.png)](facebook) [![instagram](https://user-images.githubusercontent.com/44316758/103536749-ac3af180-4ec5-11eb-9e08-b9ed7df95cbf.png)](instagram) [![youtube](https://user-images.githubusercontent.com/44316758/103536802-c1b01b80-4ec5-11eb-8f96-00101d41e087.png)](youtube) [![linkedin](https://user-images.githubusercontent.com/44316758/103536832-cd9bdd80-4ec5-11eb-9e3b-cafcb19d97b3.png)](linkedin)
+[![web](https://user-images.githubusercontent.com/44316758/103537842-b100a500-4ec7-11eb-9752-5e65981c09eb.png)](website) [![facebook](https://user-images.githubusercontent.com/44316758/103538061-1c4a7700-4ec8-11eb-8b78-83752401ae0d.png)](facebook) [![instagram](https://user-images.githubusercontent.com/44316758/103537981-fb822180-4ec7-11eb-99c0-532abc19970c.png)](instagram) [![youtube](https://user-images.githubusercontent.com/44316758/103537988-ffae3f00-4ec7-11eb-99dd-c755073dab45.png)](youtube) [![linkedin](https://user-images.githubusercontent.com/44316758/103537983-fcb34e80-4ec7-11eb-841a-9ef68282fb63.png)](linkedin)
 
 <br><br>
+
+(website): https://lioncy.com
+(facebook): https://www.facebook.com/michaelliondy/
+(instagram): https://www.instagram.com/michaelliondy/
+(youtube): https://www.youtube.com/channel/UCRjDIzak7mYhLlxLZpkDqOQ
+(linkedin): https://www.linkedin.com/in/michael-liondy/

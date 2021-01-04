@@ -13,8 +13,8 @@
 
 <br><br>
 
-(website): https://lioncy.com
-(facebook): https://www.facebook.com/michaelliondy/
-(instagram): https://www.instagram.com/michaelliondy/
-(youtube): https://www.youtube.com/channel/UCRjDIzak7mYhLlxLZpkDqOQ
-(linkedin): https://www.linkedin.com/in/michael-liondy/
+[website]: https://liondy.com
+[facebook]: https://www.facebook.com/michaelliondy/
+[instagram]: https://www.instagram.com/michaelliondy/
+[youtube]: https://www.youtube.com/channel/UCRjDIzak7mYhLlxLZpkDqOQ
+[linkedin]: https://www.linkedin.com/in/michael-liondy/

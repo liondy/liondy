@@ -44,6 +44,10 @@
 
 ![Liondy's github stats](https://github-readme-stats.vercel.app/api?username=liondy&count_private=true&show_icons=true&theme=radical)
 
+---
+
+![Liondy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liondy&layout=compact)
+
 [website]: https://liondy.com
 [facebook]: https://www.facebook.com/michaelliondy/
 [instagram]: https://www.instagram.com/michaelliondy/

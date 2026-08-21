@@ -1,6 +1,6 @@
 ### Hai, I'm [Liondy][website] 👋
 
-## DevOps / SRE Engineer | AI Engineer Automation | Cybersecurity ✌
+## DevOps / SRE Engineer | AI Engineer Automation | Cybersecurity Practioner ✌
 
 - I'm a student from Indonesia who loves learning by doing
 - I'm an enthusiastic person who loves about new things, willing to learn on their own

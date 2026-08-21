@@ -28,8 +28,8 @@
 ---
 
 ![Stats](./profile/stats.svg)
+<br/>
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ---
 
